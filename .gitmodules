@@ -1,0 +1,3 @@
+[submodule "cellular_pytomata"]
+	path = cellular_pytomata
+	url = https://github.com/IljaManakov/cellular_pytomata
